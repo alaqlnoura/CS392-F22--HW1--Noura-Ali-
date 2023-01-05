@@ -1,2 +1,3 @@
 Create fileA.txt
 feature 1
+feature 1 with 1 bug
