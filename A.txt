@@ -1,3 +1,0 @@
-Create fileA.txt
-feature 1 with bug 
-feature 1 with bug fix
